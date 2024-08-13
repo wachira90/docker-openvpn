@@ -1,6 +1,24 @@
 # docker-openvpn
 docker-compose openvpn
 
+## clone 
+
+```
+git clone https://github.com/wachira90/docker-openvpn.git
+```
+
+## command control
+
+```
+docker-compose up -d
+
+docker-compose ps
+
+docker-compose stop
+
+docker-compose start
+```
+
 ##  download client config
 
 ```
